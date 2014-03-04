@@ -1,11 +1,10 @@
-An attempt at provisioning an Ubuntu 12.04 instance with PostgreSQL, using Chef, following Ch 11.1 - 'PostgreSQL' 
+An attempt at provisioning an Ubuntu 12.04 instance with PostgreSQL using Chef, following Ch 11.1 - 'PostgreSQL' 
 in Ben Dixon's Leanpub __Reliably Deploying Rails Applications__ ([find here](https://leanpub.com/deploying_rails_applications)).
 ## Dependencies
 
 * ruby (2.0)
 * knife-solo (0.4)
 * berkshelf (2.0)
-
 ## Commands
 
 1. berks install
