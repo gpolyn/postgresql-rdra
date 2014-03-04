@@ -5,11 +5,6 @@
       "git": "git@github.com:opscode-cookbooks/postgresql.git",
       "ref": "5800238828b443725442fe510ec4f5308ed9ce8b"
     },
-    "monit-tlq": {
-      "locked_version": "0.3.5",
-      "git": "git@github.com:TalkingQuickly/monit-tlq.git",
-      "ref": "30ea75cf7728f36f553a4b22db831c70b4ffcee8"
-    },
     "monit_configs-tlq": {
       "locked_version": "0.0.5",
       "git": "git@github.com:TalkingQuickly/monit_configs-tlq.git",
