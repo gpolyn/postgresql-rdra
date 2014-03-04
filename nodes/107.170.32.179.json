@@ -1,0 +1,11 @@
+{
+  "postgresql" : {
+    "password": {
+      "postgres": "openssl_output"
+    }
+  },
+  "run_list":[
+    "role[postgres-server]"
+  ]
+}
+
