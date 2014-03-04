@@ -13,7 +13,7 @@ in Ben Dixon's Leanpub __Reliably Deploying Rails Applications__ ([find here](ht
 3. knife solo cook root@\<my server ip\>
 
 ### Result
-The foregoing got me PostgreSQL on my server (and use and installation was as Ben's chapter promised), however
+The foregoing got PostgreSQL onto my server (and use and installation configuration was as Ben's chapter promised), however
 I was unable to add the Monit server:
 ```
 Chef Client failed. 1 resources updated in 1.738820267 seconds
