@@ -1,4 +1,4 @@
-An attempt at provisioning an Ubuntu 12.04 instance with PostgreSQL using Chef, following Ch 11.1 - 'PostgreSQL' 
+Provisioning an Ubuntu 12.04 instance with PostgreSQL using Chef, following Ch 11.1 - 'PostgreSQL' 
 in Ben Dixon's Leanpub __Reliably Deploying Rails Applications__ ([find here](https://leanpub.com/deploying_rails_applications)).
 ### Dependencies
 
@@ -9,8 +9,8 @@ in Ben Dixon's Leanpub __Reliably Deploying Rails Applications__ ([find here](ht
 ### Commands
 
 1. berks install
-2. knife solo prepare root@<yourserverhere>
-3. knife solo cook root@<yourserverhere>
+2. knife solo prepare root@\<my server ip\>
+3. knife solo cook root@\<my server ip\>
 
 ### Result
 The foregoing got me PostgreSQL on my server (and use and installation was as Ben's chapter promised), however
